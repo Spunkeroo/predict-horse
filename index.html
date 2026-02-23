@@ -788,10 +788,6 @@
 <script>(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","pn0x1z2y3w");</script>
 </head>
 <body>
-<div id="sa-promo-bar" style="background:linear-gradient(90deg,#ff5f1f,#ff8c42);padding:12px 20px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,sans-serif;position:relative;z-index:9999">
-  <a href="https://spunkart.com/store" target="_blank" rel="noopener" style="color:#fff;text-decoration:none;font-size:14px;font-weight:600">&#128736; 100+ Free Tools for Founders & Devs &rarr; SpunkArt.com</a>
-  <span onclick="this.parentElement.style.display='none'" style="position:absolute;right:15px;top:50%;transform:translateY(-50%);color:#fff;cursor:pointer;font-size:18px">&times;</span>
-</div>
 
 <nav>
   <a href="/" class="logo" style="text-decoration:none;color:var(--text);display:flex;align-items:center;gap:0.5rem;"><svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" width="40" height="40"><circle cx="20" cy="20" r="18" fill="#a855f7" opacity="0.15" stroke="#a855f7" stroke-width="2"/><path d="M12 26 L18 18 L24 22 L30 12" fill="none" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M26 12 L30 12 L30 16" fill="none" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg> predict<span>.horse</span></a>
@@ -4558,33 +4554,5 @@ loadFirebaseSDK().then(async (ok) => {
 })();
 </script>
 <script src="https://spunkart.com/promo.js" data-sa-topbar="true" data-sa-footer="true"></script>
-<!-- SpunkArt Network Footer -->
-<div style="background:#111;border-top:1px solid #222;padding:30px 20px;text-align:center;font-family:-apple-system,sans-serif;margin-top:40px">
-  <p style="color:#888;font-size:12px;margin:0 0 10px">Part of the <a href="https://spunkart.com" style="color:#ff5f1f;text-decoration:none">SpunkArt Network</a></p>
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;max-width:600px;margin:0 auto">
-    <a href="https://spunkart.com" style="color:#666;font-size:11px;text-decoration:none">SpunkArt</a>
-    <a href="https://spunk.bet" style="color:#666;font-size:11px;text-decoration:none">Spunk.Bet</a>
-    <a href="https://predict.horse" style="color:#666;font-size:11px;text-decoration:none">Predict.Horse</a>
-    <a href="https://predict.codes" style="color:#666;font-size:11px;text-decoration:none">Predict.Codes</a>
-    <a href="https://predict.beauty" style="color:#666;font-size:11px;text-decoration:none">Predict.Beauty</a>
-    <a href="https://scam.ink" style="color:#666;font-size:11px;text-decoration:none">Scam.Ink</a>
-    <a href="https://stimulant.work" style="color:#666;font-size:11px;text-decoration:none">Stimulant.Work</a>
-    <a href="https://aibot.directory" style="color:#666;font-size:11px;text-decoration:none">AiBot.Directory</a>
-  </div>
-  <p style="color:#555;font-size:11px;margin:15px 0 0">&copy; 2026 SpunkArt Network &middot; <a href="https://x.com/SpunkArt13" style="color:#ff5f1f;text-decoration:none">@SpunkArt13</a></p>
-</div>
-<!-- Cross-network referral tracking -->
-<script>
-(function(){
-  var ref = new URLSearchParams(window.location.search).get('ref');
-  if(ref) localStorage.setItem('network_ref', ref);
-  document.addEventListener('click', function(e){
-    var a = e.target.closest('a');
-    if(a && a.href && a.href.includes('spunkart.com')){
-      if(typeof gtag==='function') gtag('event','network_click',{destination:a.href,source:window.location.hostname});
-    }
-  });
-})();
-</script>
 </body>
 </html>
