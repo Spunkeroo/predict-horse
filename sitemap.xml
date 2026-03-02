@@ -2,64 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.horse/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.horse/privacy.html</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/kentucky-derby-predictions-guide-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-crypto-prediction-markets-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/horse-racing-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-horse-racing-betting-guide.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/horse-racing-handicapping-data-analytics.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-kentucky-derby-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/triple-crown-predictions-history-analysis.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-prediction-markets-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/horse-racing-betting-strategies-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-prediction-markets-guide-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/preakness-stakes-prediction-guide-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-prediction-markets-guide.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.horse/blog/kentucky-derby-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.horse/blog-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://predict.horse/blog/horse-racing-tips-beginners-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://predict.horse/blog/horse-racing-industry-predictions-2026.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.horse/blog/equestrian-sport-technology-predictions.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
